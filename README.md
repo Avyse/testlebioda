@@ -1,3 +1,3 @@
-# testlebioda
+# Schlong Defense
 ## 2D tower defense game written in JS using Phaser.
-TBC
+By Mateusz Przybyłowicz & Paweł Neclaw
